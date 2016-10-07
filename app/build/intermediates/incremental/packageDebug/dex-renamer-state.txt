@@ -1,0 +1,7 @@
+#Tue Aug 16 12:03:15 CST 2016
+base.0=D\:\\sworkspace\\AppMarket\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_8fe02cca3237bcd116753c287dbb67833305054f
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\sworkspace\\AppMarket\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_2bf3345d6e6cafac5c30eabdca8399f4d95c321e\\classes.dex
+base.1=D\:\\sworkspace\\AppMarket\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_2bf3345d6e6cafac5c30eabdca8399f4d95c321e
+file.0=D\:\\sworkspace\\AppMarket\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_8fe02cca3237bcd116753c287dbb67833305054f\\classes.dex

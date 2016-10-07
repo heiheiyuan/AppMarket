@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\sworkspace\AppMarket\app\libs\xUtils-2.6.14.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="f10c51f3e0732fdeefe6e104279a58e275879b6c">
+        <dex dex="D:\sworkspace\AppMarket\app\build\intermediates\transforms\dex\debug\folders\1000\2\xUtils-2.6.14_9d197b0445fe7968fc790221646c82a1d756b5e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\sworkspace\AppMarket\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="D:\sworkspace\AppMarket\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-20.0.0_dc97493bc302eb655f441eda6f57b77ee8301310\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\sworkspace\AppMarket\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\libs\internal_impl-20.0.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="D:\sworkspace\AppMarket\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-20.0.0_d1dc6ee77c412315761663cccfa129ed9a39893b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\sworkspace\AppMarket\app\libs\gson.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="53bfcd3c8e310d1493b2691484525ed90b04e236">
+        <dex dex="D:\sworkspace\AppMarket\app\build\intermediates\transforms\dex\debug\folders\1000\2\gson_124df90beb38887b30239305852b36da457d6e77\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\GoodBoy\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="D:\sworkspace\AppMarket\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-20.0.0_da90015a501fe208552d67657d037236ebd1981b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\sworkspace\AppMarket\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="b26d0d62d90b71167d8d674050b44d28f0fc8a32">
+        <dex dex="D:\sworkspace\AppMarket\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_2bf3345d6e6cafac5c30eabdca8399f4d95c321e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\sworkspace\AppMarket\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="D:\sworkspace\AppMarket\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-20.0.0_62d972405a90a11019f1e88adfbe7822e1519aa7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\sworkspace\AppMarket\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="a30f7534752a237be97f9eb7b89f2728be82e46d">
+        <dex dex="D:\sworkspace\AppMarket\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_8fe02cca3237bcd116753c287dbb67833305054f\classes.dex" />
+    </item>
+
+</items>

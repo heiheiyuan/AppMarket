@@ -1,0 +1,40 @@
+<android.support.v4.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/drawerlayout"
+    tools:context=".MainActivity" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <com.itheima.appmarket.ui.PagerSlidingTab
+            android:id="@+id/tab_pst"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/bg_tab"
+            app:indicatorColor="#661990EB"
+            app:indicatorHeight="8dp"
+            app:underlineColor="#343B52"
+            app:underlineHeight="3dp" />
+
+        <android.support.v4.view.ViewPager
+            android:id="@+id/content_vp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </LinearLayout>
+
+    <FrameLayout
+        android:id="@+id/main_fl"
+        android:layout_width="fill_parent"
+        android:background="#000000"
+        android:layout_height="fill_parent"
+        android:layout_gravity="left" >
+
+        <include layout="@layout/main_menu" />
+    </FrameLayout>
+
+</android.support.v4.widget.DrawerLayout>
