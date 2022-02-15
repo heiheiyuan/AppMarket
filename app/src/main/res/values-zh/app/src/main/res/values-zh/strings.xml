@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string-array name="tab_names">
+    <item>測試</item>
+    <item>晚上好</item>
+  </string-array>
+  <string name="app_name_str">最炫民族風</string>
+  <string name="app_size">10.23M</string>
+  <string name="isdownload">下載</string>
+</resources>
