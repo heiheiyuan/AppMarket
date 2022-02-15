@@ -2,6 +2,7 @@
 <resources>
   <string-array name="tab_names">
     <item>テスト</item>
+    <item>こんばんは</item>
   </string-array>
   <string name="app_name_str">最もまばゆいばかりの国民的スタイル</string>
   <string name="app_size">10.23M</string>

@@ -2,6 +2,7 @@
 <resources>
   <string-array name="tab_names">
     <item>測試</item>
+    <item>晚上好</item>
   </string-array>
   <string name="app_name_str">最炫民族風</string>
   <string name="app_size">10.23M</string>
