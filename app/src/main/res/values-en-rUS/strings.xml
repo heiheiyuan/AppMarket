@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string-array name="tab_names">
+    <item>test</item>
+    <item>good evening</item>
+  </string-array>
+  <string name="app_name_str">The most dazzling national style</string>
+  <string name="app_size">10.23M</string>
+  <string name="isdownload">Download</string>
+</resources>
