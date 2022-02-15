@@ -14,6 +14,7 @@
         <item>分类</item>
         <item>排行</item>
         <item>早上好</item>
+        <item>晚上好</item>
     </string-array>
 
     <string name="user_mail">unknow@gmail.com</string>
