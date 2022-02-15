@@ -15,6 +15,7 @@
         <item>排行</item>
         <item>早上好啊</item>
         <item>晚上好啊</item>
+        <item>吃了吗</item>
     </string-array>
 
     <string name="user_mail">unknow@gmail.com</string>
