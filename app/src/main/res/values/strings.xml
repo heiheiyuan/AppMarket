@@ -14,18 +14,4 @@
     </string-array>
 
     <string name="user_mail">unknow@gmail.com</string>
-    <string name="sliding_home">首页</string>
-    <string name="setting">设置</string>
-    <string name="theme">主题</string>
-    <string name="apk_manager">安装包管理</string>
-    <string name="feed_back">反馈</string>
-    <string name="about">关于</string>
-    <string name="exit">退出</string>
-    <string name="error_des">加载失败,请重试</string>
-    <string name="app_des">大王叫我来巡山</string>
-    <string name="app_name_str">最炫民族风</string>
-    <string name="app_size">10.23M</string>
-    <string name="isdownload">下载</string>
-    <string name="isdownload">播放</string>
-    <string name="isdownload">暂停</string>
 </resources>
