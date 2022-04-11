@@ -26,6 +26,6 @@
     <string name="app_name_str">最炫民族风</string>
     <string name="app_size">10.23M</string>
     <string name="isdownload">下载</string>
-    <string name="isdownload">播放</string>
-    <string name="isdownload">暂停</string>
+    <string name="play">播放</string>
+    <string name="pause">暂停</string>
 </resources>
