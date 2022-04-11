@@ -13,7 +13,6 @@
         <item>推荐</item>
         <item>分类</item>
         <item>排行</item>
-        <item>你好啊</item>
     </string-array>
 
     <string name="user_mail">unknow@gmail.com</string>
@@ -29,6 +28,5 @@
     <string name="app_name_str">最炫民族风</string>
     <string name="app_size">10.23M</string>
     <string name="isdownload">下载</string>
-    <string name="xukaizhongtest---">x测试</string>
-
+    <string name="isdownload">播放</string>
 </resources>
